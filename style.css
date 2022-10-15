@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@300;400;500&display=swap');
+
+body{
+    font-family: 'Signika Negative', sans-serif;
+    font-weight: 500;
+	letter-spacing: 1px;
+    background-color:aliceblue;
+ 
+}
+h1,h2,h3,h4,h5,h6{
+	font-weight: 600;
+	text-transform: uppercase;
+}
+ section{
+    padding-top: ;
+ }
+
+ .navbar{
+    transition: all 0.4s ease;
+   
+}
+
+.navbar-light .navbar-nav .nav-link.active{
+
+  color: orange;
+}
+
+.box-img {
+    height: 30px;
+    display: flex;
+   margin-top: 40px;
+   margin-bottom: 20px;
+
+}
+.box-img img{
+    height: 30px;
+   margin-right: 20px;
+
+}
+.box-img img h6 {
+    margin-top: 10px;
+   
+}
+span{
+    color: orange;
+}
+
+.contact{
+    padding-left: 30px;
+    padding-right:20px ;
+}
+.btn-danger {
+    background-color: orange;
+    border-radius: 100px;
+    border: orange;
+    display: flex;
+   padding-left: 13px;
+   padding-right: 13px;
+}
+.btn-danger:hover{
+    background-color: rgb(255, 184, 51);
+}
+
+.box-btn{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+   
+.box-social{
+    margin-top: 40px;
+    margin-left: 10px;
+   
+}
+.social {
+    margin-left: 10px;
+}
+
+.box-social img {
+    height: 50px;
+    border-radius: 100px;
+}
+.see{
+    display: flex;
+    
+}
+.see h3 button{
+padding-left: 100px;
+}
+.text {
+margin-left: 30px;
+margin-top: 10px;
+} 
+.text-img{
+    margin-left: 400px;
+
+}
+
+.box-menu {
+    height: 60px;
+    width: 160px;
+    border-radius: 40px;
+    background-color: #ffffff;
+    display: flex;
+    padding-top: 8px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    margin-bottom: 18px;
+    margin-left: 15px;
+}
+.box-menu img{
+    margin-left: 20px;
+    margin-right: 10px;
+    height: 50px;
+    
+}
+.box-menu h6 {
+    margin-top: 5px;
+}
+
+.chif-img img{
+    height: 550px;
+}
+.icon-text {
+    height: 30px;
+    display: flex;
+   margin-top: 40px;
+   margin-bottom: 20px;
+
+}
+.icon-text img{
+    height: 50px;
+    width: 50px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+}
+.icon-text h4{
+    margin-top: 15px;
+}
+
+.move-text{
+    margin-left: 70px;
+}
+.box-product {
+    height: 420px;
+    width: 430px;
+    background-color: #fff;
+    border-radius: 8px;
+}
+
+.box-product img{
+    display: flex;
+    height: 300px;
+    width: 430px;
+    border-radius: 8px;
+}
+.box-product h6 {
+    margin-top: 10px;
+}
+
+.box-product button{
+    margin-left: 160px;
+}
+.about-img img{
+height: 380px;
+}
+.foot{
+    background-color: orange;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.foot h2{
+    margin-left: 20px;
+}
+
+.foot ul{
+    list-style: none;
+    padding: 0px;
+    margin-left: 20px;
+}
+.foot ul li{
+margin-top: 10px;
+}
+.foot a{
+    color: #fff;
+    text-decoration: none;
+}
